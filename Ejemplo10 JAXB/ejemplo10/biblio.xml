@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<biblioteca localidad="Zamora" tlf="980526712">
+    <lista>
+        <libro>
+            <autor>Pepe</autor>
+            <fecha>3800-06-10T00:00:00+02:00</fecha>
+            <genero>Novela</genero>
+            <isbn>123424513</isbn>
+            <titulo>La Celestina</titulo>
+        </libro>
+        <libro>
+            <autor>Follet</autor>
+            <fecha>3880-08-20T00:00:00+02:00</fecha>
+            <genero>Novela</genero>
+            <isbn>14372113</isbn>
+            <titulo>Los Pilares</titulo>
+        </libro>
+    </lista>
+</biblioteca>
