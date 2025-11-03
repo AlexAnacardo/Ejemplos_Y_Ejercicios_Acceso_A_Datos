@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jugadores>
+	<jugador id="1">
+		<nombre>pepe</nombre>
+		<posicion>delantero</posicion>
+		<edad>25</edad>
+	</jugador>
+	<jugador>
+		<nombre>david</nombre>
+		<posicion>portero</posicion>
+		<edad>35</edad>
+	</jugador>
+</jugadores>
