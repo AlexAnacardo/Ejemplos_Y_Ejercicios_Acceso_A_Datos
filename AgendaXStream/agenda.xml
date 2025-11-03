@@ -1,0 +1,26 @@
+<contactos>
+  <contacto>
+    <id>1</id>
+    <nombre>Alex</nombre>
+    <apellidos>Asensio Sanchez</apellidos>
+    <telefono>123456789</telefono>
+    <correo>alexasensio04clase@gmail.com</correo>
+    <fechaNacimiento>2004-07-19</fechaNacimiento>
+  </contacto>
+  <contacto>
+    <id>2</id>
+    <nombre>Diego</nombre>
+    <apellidos>Tabuyo Rebordinos</apellidos>
+    <telefono>123456789</telefono>
+    <correo>diego@gmail.com</correo>
+    <fechaNacimiento>2003-02-12</fechaNacimiento>
+  </contacto>
+  <contacto>
+    <id>3</id>
+    <nombre>Tirso</nombre>
+    <apellidos>Guerrero Fernandez</apellidos>
+    <telefono>123456789</telefono>
+    <correo>tirso@gmail.com</correo>
+    <fechaNacimiento>2004-01-27</fechaNacimiento>
+  </contacto>
+</contactos>
