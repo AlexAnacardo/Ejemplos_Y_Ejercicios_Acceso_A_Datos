@@ -1,0 +1,22 @@
+<jugadores>
+  <jugador activo="true">
+    <nombre >Maria</nombre>
+    <posicion>delantera</posicion>
+    <edad>25</edad>
+  </jugador>
+  <jugador>
+    <nombre>Maria</nombre>
+    <posicion>delantera</posicion>
+    <edad>28</edad>
+  </jugador>
+  <jugador activo="true">
+    <nombre>Pepe</nombre>
+    <posicion>Defensa</posicion>
+    <edad>84</edad>
+  </jugador>
+  <jugador>
+    <nombre>Pepito</nombre>
+    <posicion>Defensa</posicion>
+    <edad>14</edad>
+  </jugador>
+</jugadores>

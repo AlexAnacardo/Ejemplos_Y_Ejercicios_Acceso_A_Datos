@@ -1,0 +1,11 @@
+{
+  "lista" : [ {
+    "nombre" : "Maria",
+    "posicion" : "delantera",
+    "edad" : 25
+  }, {
+    "nombre" : "Maria",
+    "posicion" : "delantera",
+    "edad" : 28
+  } ]
+}
